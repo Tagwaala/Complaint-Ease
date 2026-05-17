@@ -1,0 +1,40 @@
+﻿flutter : "Complaint 
+Ease" is not a valid 
+Dart package name.
+At line:1 char:1
++ flutter create 
+--org 
+com.complaintease . 
+2>&1 | Out-File 
+-FilePath "c ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo    
+          : NotSpeci  
+  fied: ("Complaint   
+  Ease...t package    
+ name.:String) []    
+, RemoteException
+    + FullyQualifiedE 
+   rrorId : NativeCo  
+  mmandError
+ 
+
+The name should 
+consist of lowercase 
+words separated by 
+underscores, 
+"like_this". Use only 
+basic Latin letters 
+and Arabic digits: 
+[a-z0-9_], and ensure 
+the name is a valid 
+Dart identifier (i.e. 
+it does not start 
+with a digit and is 
+not a reserved word).
+
+See https://dart.dev/t
+ools/pub/pubspec#name 
+for more information.
